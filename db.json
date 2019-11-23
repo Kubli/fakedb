@@ -1,8 +1,5 @@
-[
-{"type":"header","version":"4.7.4","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"db"},
-{"type":"table","name":"pages","database":"db","data":
-[
+{
+  "pages": [
 {"uid":"1","pid":"0","deleted":"0","hidden":"0","title":"Home","doktype":"1","nav_title":"","slug":"\/"},
 {"uid":"2","pid":"1","deleted":"0","hidden":"0","title":"System and functional pages","doktype":"254","nav_title":"","slug":"\/system-and-functional-pages"},
 {"uid":"3","pid":"2","deleted":"1","hidden":"0","title":"robots.txt","doktype":"1","nav_title":"","slug":"\/system-and-functional-pages\/robotstxt"},
@@ -22,4 +19,3 @@
 {"uid":"17","pid":"2","deleted":"0","hidden":"0","title":"404-error","doktype":"1","nav_title":"","slug":"\/system-and-functional-pages\/404-error"}
 ]
 }
-]
